@@ -2,12 +2,12 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-int main(void) {
+int main() {
     // pins connected to the 4 leds
     DDRB |= (1 << PB0) | (1 << PB1) | (1 << PB2) | (1 << PB3);
     
-    while(1) {
-        // tail rainbow loop
+    // tail rainbow loop
+    while (true) { 
         PORTB = (1 << PB0); // turn ON LED 1, others OFF
         _delay_ms(100);     // 100 millisecond pause
         
@@ -20,4 +20,6 @@ int main(void) {
         PORTB = (1 << PB3); // turn ON LED 4, others OFF
         _delay_ms(100);
     }
+    
+    return 0;
 }
