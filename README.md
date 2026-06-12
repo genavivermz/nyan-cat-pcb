@@ -15,7 +15,7 @@ made with KiCad; flat components for more lightweight use (as keychain or for ge
 </p>
 &nbsp
 <p align="center">
-  <img src="back-view.png" width="50%" />
+  <img src="images/back-view.png" width="50%" />
 </p>
 
 # schematics
