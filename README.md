@@ -1,7 +1,7 @@
 # nyan cat PCB project ₍^. .^₎⟆
 made with KiCad; flat components for more lightweight use (as keychain or for general decoration!)
 <p align="center">
-  <img src="laptop-girl.gif" width="75%" />
+  <img src="laptop-girl.gif" width="50%" />
 </p>
 
 # design
