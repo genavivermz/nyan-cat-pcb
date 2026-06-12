@@ -1,4 +1,4 @@
-# nyancat PCB project ₍^. .^₎⟆
+# nyancat PCB ₍^. .^₎⟆
 made with KiCad; flat components for more lightweight use (as keychain or for general decoration!)
 <p align="center">
   <img src="images/laptop-girl.gif" width="50%" />
